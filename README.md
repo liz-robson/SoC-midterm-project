@@ -87,7 +87,3 @@
         <li>Run 'npm i' on your CLI to install the dependencies</li>
 </ul>
 
-
-![Logo](./images/logo-01.jpg)
-
-![Team Expedition](./images/teamexpedition.png)

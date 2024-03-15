@@ -59,7 +59,7 @@
 <hr>
 
 <h4>CHALLENGES WE FACED</h4>
-<p>We had issues deploying the project to Render at the end of the project due to our front-end and back-end being linked together. We were able to resolve the situation by doing more research and reading more documentation.</p>
+<p>We had issues deploying the project to Render at the end of the project due to our front-end and back-end being linked together. We were able to resolve the situation by doing more research, thoroughly reading the documentation and deciding to split the front and back-end code.</p>
 
 <hr>
 

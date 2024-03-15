@@ -8,13 +8,12 @@
 <p>At the midpoint of the 16 week School of Code bootcamp, we were given a brief to develop a full stack application that addresses a specific problem faced by fellow bootcampers. Our goal was to improve their overall experience of bootcampers, e.g. focusing on things like remote learning, knowledge retention, or collaboration.</p>
 
 <h4>Our approach</h4>
-<p>We scoped out the week as follows</p>
+<p>We scoped out the week as follows:</p>
 <ul>
         <li>Day One: Problem discovery, research, problem refinement and user personas</li>
         <li>Day Two: Solution Discovery, MVP definition, Wireframes/Design and User Stories</li>
         <li>Day Three & Four: Finalised design and build</li>
-        <li>Day Five: Demo Day</li>
-        
+        <li>Day Five: Demo Day</li>  
 </ul>
 
 <hr>

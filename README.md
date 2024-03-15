@@ -1,11 +1,21 @@
-<h1>Tortee Mentoring App</h1>
+<h1>Tortee | Bootcamp Mentor Support App</h1>
 
 <a href="https://habitap.vercel.app/">
         <img src="https://github.com/liz-robson/liz-robson/blob/d7f98e79cd45ac8b66407725097b09eee6bc80dc/tortee-midterm.png" alt="Tortee Mentoring App" width="500"/>
     </a>
 
 <h4>Introduction</h4>
-  
+<p>At the midpoint of the 16 week School of Code bootcamp, we were given a brief to develop a full stack application that addresses a specific problem faced by fellow bootcampers. Our goal was to improve their overall experience of bootcampers, e.g. focusing on things like remote learning, knowledge retention, or collaboration.</p>
+
+<h4>Our approach</h4>
+<p>We scoped out the week as follows</p>
+<ul>
+        <li>Day One: Problem discovery, research, problem refinement and user personas</li>
+        <li>Day Two: Solution Discovery, MVP definition, Wireframes/Design and User Stories</li>
+        <li>Day Three & Four: Finalised design and build</li>
+        <li>Day Five: Demo Day</li>
+        
+</ul>
 
 <hr>
 <h4>My teammates</h4>
@@ -19,44 +29,41 @@
 </ul>
 <hr>
 
-<h4>Defining the Problem</h4>
-
-
-<hr>
-
-<h4>Our solution</h4>
+<h4>Defining the Problem and Our Solution</h4>
+<p>During the brainstorming session, we discussed problems that we and other bootcampers were having and an area which came up was sessions and with our nominated mentors, often struggling to get the most out of the sessions. We therefore came up with an idea for an app to help bootcampers get more from their sessions, with icebreaker questions if they were struggling with knowing what to say, a note taking section to store their thoughts from the mentor meetings and questions to ask your mentor, based on what you had been studying that week</p>
 
 <hr> 
 
 <h4>Tech Stack</h4>
+<p>The key priority for the project was to showcase all the technical skills we had gained so far on the bootcamp and therefore steered us to use the below technologies:</p>
 <ul>
+    <li>HTML</li>
     <li>Javascript</li>
-    <li>Next.js</li>
-    <li>React</li>
-    <li>Supabase Authentication</li>
-    <li>Supabase Database</li>
-    <li>Figma</li>
+    <li>CSS</li>
+    <li>Express</li>
+    <li>PostgresSQL</li>
 </ul>
+
 <hr>
 <h4>My Key Contributions</h4>
 <ul>
-        <li>Setting up the databases and authentication on Supabase and connecting it to the front-end</li> 
-        <li>Keeping the team on track and focused on sprint goals</li>
-        <li>Fixing bugs to ensure CI/CD</li>
+        <li>Connecting the front and back-end as a priority early on</li> 
+        <li>Working on the icebreaker page, using a local JSON file to call a question at random</li>
+        <li>Ensuring no one got left behind in their understanding of our code and that we all got to work on every aspect of the codebase</li>    
 </ul>
 
 <hr>
 
 <h4>Challenges we faced</h4>
-<p>We found Authentication difficult to implement and didn't build it into our app until the last week. The issue being we had already built the majority of the app to render on the client-side whereas Authentication ideally needs to happen on the server-side. We tried many different routes, tried and failed many times! Which made it particularly rewarding when we managed to resolve it in the final days.</p>
+<p>We had issues deploying the project to Vercel at the end due to our front-end and back-end</p>
 
 <hr>
 
 <h4>What we would do differently</h4>
 <ul>
-    <li>Utilise the server-side rendering capabilities of Next.js more</li>
-    <li>Gained a better understanding of client-side vs. server-side rendering</li>
-    <li>Do more user testing throughout the project</li>
+    <li>More efficient use of time, breaking into smaller teams when solving issues</li>
+        <li>Review the team manifesto every morning and check in with everyone</li>
+        <li>Ensure all data is in on - we had some locally in a JSON file and other data on a PostgresSQL database</li>
 </ul>
 
 <hr>

@@ -6,12 +6,12 @@
 
 <hr>
 
-<h4>Introduction</h4>
+<h4>INTRODUCTION</h4>
 <p>At the midpoint of the 16 week School of Code bootcamp, we were given a brief to develop a full stack application that addresses a specific problem faced by fellow bootcampers. Our goal was to improve their overall experience of bootcampers, e.g. focusing on things like remote learning, knowledge retention, or collaboration.</p>
 
 <hr>
 
-<h4>Our approach</h4>
+<h4>OUR APPROACH</h4>
 <p>We scoped out the week as follows:</p>
 <ul>
         <li>Day One: Problem discovery, research, problem refinement and user personas</li>
@@ -21,7 +21,7 @@
 </ul>
 
 <hr>
-<h4>My teammates</h4>
+<h4>MY TEAMMATES</h4>
 <ul>
     <li>Joe O'Donovan</li>
     <li>Rikiah Williams</li>
@@ -32,12 +32,12 @@
 </ul>
 <hr>
 
-<h4>Defining the Problem and Our Solution</h4>
+<h4>DEFINING THE PROBLEM AND OUR SOLUTION</h4>
 <p>During the brainstorming session, we discussed problems that we and other bootcampers were having and an area which came up were the meetings with our nominated mentors, often struggling to get the most out of the sessions. We therefore came up with an idea for an app to help bootcampers get more from their sessions, with icebreaker questions if they were struggling with knowing what to say, a note taking section to store their thoughts on the meetings and technical questions to ask your mentor, based on what you had been studying that week.</p>
 
 <hr> 
 
-<h4>Tech Stack</h4>
+<h4>TECH STACK</h4>
 <p>The key priority for the project was to showcase all the technical skills and knowledge we had built up over the first half of the bootcamp and therefore steered us to use the below technologies:</p>
 <ul>
     <li>HTML</li>
@@ -48,7 +48,7 @@
 </ul>
 
 <hr>
-<h4>My Key Contributions</h4>
+<h4>MY KEY CONTRIBUTIONS</h4>
 <ul>
         <li>Connecting the front and back-end as a priority early on</li> 
         <li>Working on the icebreaker page, using a local JSON file to call a question at random and display it on the app</li>
@@ -57,12 +57,12 @@
 
 <hr>
 
-<h4>Challenges we faced</h4>
+<h4>CHALLENGES WE FACED</h4>
 <p>We had issues deploying the project to Render at the end of the project due to our front-end and back-end being linked together. We were able to resolve the situation by doing more research and reading more documentation.</p>
 
 <hr>
 
-<h4>What we would do differently</h4>
+<h4>WHAT WE WOULD DO DIFFERENTLY</h4>
 <ul>
     <li>More efficient use of time, breaking into smaller teams when solving issues</li>
         <li>Review the team manifesto every morning and check in with everyone</li>
@@ -72,7 +72,7 @@
 
 <hr>
 
-<h4>What's next for Tortee</h4>
+<h4>WHAT'S NEXT FOR TORTEE</h4>
 
 <li>Create a section where you can take notes for each mentor session and refer back to them which we weren't able to complete</li>
 <li>Meeting scheduler with your mentor to see each other's availability</li>
@@ -81,9 +81,17 @@
 
 <hr>
 
-<h4>Installation</h4>
+<h4>INSTALLATION</h4>
 <ul>
-        <li>Clone down the repo with git clone <a href="https://github.com/liz-robson/SoC-final-project.git">https://github.com/liz-robson/SoC-final-project.git</a></li>
-        <li>Run 'npm i' on your CLI to install the dependencies</li>
+        <div>
+                <li>Clone down the repo:</li> 
+        <br>
+        <code>git clone https://github.com/liz-robson/SoC-midterm-project/tree/main</code>
+        </div>
+        <br>
+        <div>
+        <li>Install dependencies:</li>
+        <br>
+        <code>npm i</code>
+        </div>
 </ul>
-

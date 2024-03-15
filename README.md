@@ -4,6 +4,8 @@
         <img src="https://github.com/liz-robson/liz-robson/blob/d7f98e79cd45ac8b66407725097b09eee6bc80dc/tortee-midterm.png" alt="Tortee Mentoring App" width="500"/>
     </a>
 
+<hr>
+
 <h4>Introduction</h4>
 <p>At the midpoint of the 16 week School of Code bootcamp, we were given a brief to develop a full stack application that addresses a specific problem faced by fellow bootcampers. Our goal was to improve their overall experience of bootcampers, e.g. focusing on things like remote learning, knowledge retention, or collaboration.</p>
 

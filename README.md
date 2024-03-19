@@ -52,7 +52,8 @@
 <ul>
         <li>Connecting the front and back-end as a priority early on</li> 
         <li>Building a local JSON file to call an icebreaker topic at random and display it on the app</li>
-        <li>Using Express.js to set up the API and endpoints</li>
+        <li>Using Express.js to set up the connection to the database</li>
+        <li>Working on the front-end styling in CSS</li>
         <li>Ensuring no one got left behind in their understanding of our code and that we all got to work on every aspect of the codebase</li>    
 </ul>
 
